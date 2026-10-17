@@ -1,2 +1,2 @@
-# task-api
+# task-api (WIP)
 Secure Spring Boot REST API focused on application security, testing, Docker, and CI/CD.
